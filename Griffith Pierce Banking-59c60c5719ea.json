@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "griffith-pierce-banking",
+  "private_key_id": "59c60c5719ea8e1dccdd87f01f4edf0732d98bc6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC4wSD6eyDVDWPT\n8vATogDfq9pF4j/fVYwQVoiNPy67jyUhmdCNJCNtdBODkNY74WtIkSIIx7pg1OLq\nv/N6wO+bmyJ/4ojd4+3aV+T7j90IB8KTLR/p98vyzwu9+5n6BXBmqegaUstGoKfb\ngV6xBExjkB9hhGwxCAdFvnaeSf38EewCk7bbH9uat7kZQf/68wM9FXSdLxoxvMz2\ntSkcR41lmdElnYAZlvDoUF+kWZasp/NhHJHNFDnMj4MJL865oIcSpmGFaCu7cuqT\nP1ldzlFnF2ftUGJelGKbUnkXjYatuXxveTnCKeohjwS1nef154dpuDZ4xkyTyL++\n//dUfx+dAgMBAAECggEAFjdtGInBXTVGvZgvS+EVg1AGR5SJEzlVhiptsbR5EWdJ\ncwSsyiggFXuZlB7Q0DMPZFLFebJQxG+dGNb7t5VnSropOCEczbfopHKgz6pRTTOn\nr2yD863PSdOhaRdOAP1x8np4dV/i30uW28OvCBDJAcj1KRQUMYIyY63fVDH4F304\nVzbbGdnXulIn/uRZzE2zfm01kbfdlFtSGtrY77gnlTu7Nnboq0iFTjY/mKy0QM8d\nZUW+RBgZy6AgjDklKD10Ihm6Jx6S7XxaMEoElwN3Omoxcnh0JQfbNFsmRVgjuYPl\nY5pqlJMXkMI7vPGpUJcnlZLd8IfrijV+BpaZv8SHaQKBgQD8SkuuYioRQTSq20Zs\nTeL6u79s/2OlCikGZ1Qu3BOXpyVVFhAM09r+Uz4557c9uwCkGP6wXuEE2iY02qHa\nsXvxsB9NWdj15Zw9tN4z9R3rsOCqIak6SwaUovdE5GERXugmQyjoxg/okPkhjZQS\nFn+uVNCxwdwq/9ufh4E21wci+QKBgQC7eJseE266A012bwXLizr3uyjT/kI+JLrh\nNz4YpU6gtkh8iqntLe7tviMmqDMwVIPzvJnCBgTz8EtVRK2YxWiZ+skkudESDVAB\nm3ahV+SVXrhbn3YeLWUkly0lMUB7hgl23lVk5/CE62jnqGcvyfeRl7xzuHARxSOJ\nk6QAFyJmxQKBgGdRqdK9gsrUMFR0Pk/mSbkzID7sDAuvsINd15zlJeTqX6CLy4Dl\nVf7nakleeq1+ItIRJmRmRrKtAA6PJs+f9clRvk/4JqD1Kloe8wzGKj22jxs9c8da\nqFRAtRDykkoB2wKoaF2Dl0o/7Lbv+x65NgrX0yuo35iAdZnMbX9e6h5JAoGAY4qA\nYpHS4zXJta7xlsgQwWVBIn8I0VJTYC4i7Jcpjq/7ARXncCZJjTa+F1KMC4d0oMBt\nq9XiX1whw965hjqbddbxYmy/lCQ5bQENFlJC7wTiQtQCtbdI0wrqT6s9H9llwRYA\npZl53jnY89g5IejNaSL2T0OJTgYs/mnEVL/z5jkCgYAuewE9ONgUY9V5pOBCzNLH\njoZnbCyxUtMlvzlCvHk4U5M94t/eQ2cfTjpM+JKRBZohYwcod6JvGOMLQN65uT/4\nepuivNRka5/TMdWOsRkdBt6vbmLZCWjYxgx2rgdLQJuW2E5Wapq0DniRuT4Iufic\n4ogRR0xdqlyGxVF2oycyZw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "realegpb@griffith-pierce-banking.iam.gserviceaccount.com",
+  "client_id": "116539334565067721135",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/realegpb%40griffith-pierce-banking.iam.gserviceaccount.com"
+}
