@@ -5,20 +5,10 @@ import pandas as pd
 import numpy as np
 import random, math
 
-bot = commands.Bot(command_prefix='!', description='shut the fuck up')
-
-common = ["EpixTurkey", "minerjfb", "Presley", "Elouise", "BIItze", "Waterbird", "NomiCola", "Kiwi_Cove", "Sulley", "Honey",
-          "Highlander", "Puppythecat", "Sem", "TinyAtoms", "LimLimBeabs", "Hampoon", "JESSE", "Mack", "VonKrahw", "Senorfish", "fluffybunnyz",
-          "cozmos", "oMicah", 'Princesslaura', "UnnoticedPlayer", "BlueChicken", "Bluelegion", "Maryjuana", "DaddyDylan", "PoliteNeighbor",
-          "Golsuc", "Rated", "TheMinersDream", "yrsugar"]
-
-rare = ["Island_Dwellers", "T_Spoon", "Cnan", "Anojo", "Pessi", "Sandy", "Acyus", "Toasty", "SirDingus", "Sharoni", "Austin",
-        "Norely", "Alexis", "Bones", "Twilight", "Brightsbrightly"]
-epic = ["Mod Luke", "Christina", "Amy", "Stav", "Cydrius", "Blackfire", "Kaito", "Starbird", "Olivia", "PincessUnicorn",'SirBeans']
-legendary = ["Ish", "RZKT", "Tia", "Pop", 'Waffel']
+bot = commands.Bot(command_prefix='!', description='')
 
 
-'''
+
 common = ['Kurotsuchi', 'Ebisu', 'Kiba', 'Ino', 'Shikadai', 'Inoichi', 'Sakura', 'Konohamaru', 'Kushina', 'Karin', 'Jugo', 'Udon',
           'Moegi', 'TenTen', 'Rin', 'Temari', 'Kankuro', 'Mabui', 'Darui', 'TonTon', 'Shizune', 'Kimimaro', 'Fugaku', 'Anko',
           'Sai', 'Chiyo', 'Karui', 'Mei', 'Ao']
@@ -26,7 +16,7 @@ rare = ['A', 'Bee', 'Gamakichi', 'Gamatatsu', 'Neji', 'Hinata', 'Lee', 'Guy', 'A
         'Sasori', 'Yamato', 'Haku', 'Suigetsu', 'Chojuro', 'Iruka']
 epic = ['Naruto', 'Sasuke', 'Kakashi', 'Gaara', 'Kisame', 'Obito', 'Danzo', 'Hiruzen', 'Tobirama', 'Zetsu', 'Zabuza', 'Gamabunta', 'Ohnoki', 'Shisui']
 legendary = ['Jiraiya', 'Orochimaru', 'Tsunade', 'Madara', 'Hashirama', 'Nagato', 'Itachi', 'Hagoromo', 'Minato', 'Ichiraku']
-'''
+
 
 fieldname = ['id', 'name', 'points']
 
