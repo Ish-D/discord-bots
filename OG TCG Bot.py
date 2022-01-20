@@ -441,4 +441,4 @@ async def on_message(message):
         return
     await bot.process_commands(message)
 '''
-bot.run('Mjg0ODYwNDc2Mzg5ODUxMTQ3.XlmTEw.pgMhZ89pB8KA8hyis871eOOzVVI')
+bot.run('token')

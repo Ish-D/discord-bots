@@ -442,4 +442,4 @@ async def wallet(ctx):
 
 
 #bot.loop.create_task(fluc())
-bot.run('Mjg0ODYwNDc2Mzg5ODUxMTQ3.XlmTEw.pgMhZ89pB8KA8hyis871eOOzVVI')
+bot.run('token')
